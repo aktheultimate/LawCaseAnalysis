@@ -7,4 +7,3 @@ pandas
 scikit-learn
 goose3
 nltk
-pickle
